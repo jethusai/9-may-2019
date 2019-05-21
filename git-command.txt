@@ -1,0 +1,81 @@
+    1  git --version
+    2  git --help
+    3  pwd
+    4  ls
+    5   cd Desktop
+    6  pwd
+    7  cd program solving and programming
+    8  pwd
+    9  cd programming
+   10  mkdir Git
+   11  pwd
+   12  LS
+   13  ls
+   14  pwd
+   15  cd
+   16  cd Desktop
+   17  ls
+   18  pwd
+   19  cd program solving and programming
+   20  cd Problemsolvingandprogramming
+   21  ls
+   22  mkdir Git
+   23  ls
+   24  cd Git
+   25  pwd
+   26  Git  --version
+   27  Git config --list
+   28  Git config usre.name
+   29  Git config user.name
+   30  Git --global user.name "jetu10402"
+   31  git config user.name
+   32  Git config user.name "jetu10402"
+   33  touch file1.txt
+   34  ls
+   35  Git init
+   36  Git status
+   37  Git add file1.txt
+   38  Git status
+   39  Git commit -m "first file commit"
+   40  git config --global user.name "jetu10402"
+   41  git config --global user.name
+   42  git config --global user.email "jetu10402sunkavalli4@gmail.com
+git config --global user.email
+git config --global user.name "jetu10402"
+git config --global user.email "jethusai@gmail.com
+   43  git config --global user.email
+   44  git config --global user.name "jetu10402"
+   45  Git commit -m "first file commit"
+   46  Git status
+   47  echo "data in line1"> file1.txt
+   48  Git status
+   49  Git commit -m "secong file commit"
+   50  Git log
+   51  LS
+   52  PWD
+   53  touch file{2..10}.txt
+   54  ls
+   55  touch{11..100}.txt
+   56  touch file{11..100}
+   57  ls
+   58  rm file{11..100}.txt
+   59  ls
+   60  rm file{11..100}
+   61  ls
+   62  Git reset HEAD file{2..10}
+   63  Git reset HEAD file{2..10}.txt
+   64  Git add file{2..10}.txt
+   65  Git reset HEAD file{2..10}.txt
+   66  Git add file{2..10}.txt
+   67  Git commit -m "added 9 files commit"
+   68  Git clone https://github.com/jetu10402/Problem-Solving-and-Programming
+   69  ls
+   70  ls
+   71  ls
+   72  cd
+   73  cd Desktop/problemsolvingandprogramming/git
+   74  history 100> git-command.txt
+   75  cat git-command.txt
+   76  history >100 git-command.txt
+   77  history > 100 git-command.txt
+   78  history 100 > git-command.txt
